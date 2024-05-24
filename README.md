@@ -9,8 +9,6 @@
 
 ## 2. Expor critério de avaliação e avaliar a tela “antes” (tela atual do projeto)
 
-### 2.1. Acessibilidade
-
 &nbsp;&nbsp;&nbsp;&nbsp; Tendo em vista a importância de construir um produto que seja acessível para a maior quantidade de pessoas possíveis escolheu-se incorporar uma funcionalidade que torna a aplicação WEB um pouco mais acessível. Nesse sentido, os botões que são imagens em nosso código irão conter textos de descrição, sendo que essa funcionalidade não foi adicionada na primeira aplicação WEB.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Segue abaixo o atual código:
@@ -26,8 +24,6 @@
 ```
 
 ## 3. Descrever mudanças e apresentar a tela com a nova proposta (mockup).
-
-### 3.1. Acessibilidade
 
 &nbsp;&nbsp;&nbsp;&nbsp; Para a incorporação da funcionalidade citada acima com a finalidade que pessoas com deficiência visual consigam saber sobre o que se trata um botão que utiliza imagem serão utilizadas os recursos 'aria-label' e 'alt' do html. Assim, o 'aria-label' proporciona uma descrição para elementos interativos e o 'alt' é um atributo utilizado em elementos de imagens com o objetivo de fornecer um texto alternativo que descreve o conteúdo da imagem.
 
